@@ -1,3 +1,8 @@
+% This is the script file for decoding captured images according to the
+% Binomial Self-compensation (BSC) technique. 
+%
+% For details, see paper:
+% Binomial Self-compensation for Motion Error in Dynamic 3D Scanning, Geyou Zhang, Ce Zhu*, and Kai Liu
 clc; clear all; close all;
 %% Parameters Setting
 addpath('./Package')
