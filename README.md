@@ -9,3 +9,6 @@ Geyou Zhang<sup>1</sup>, Ce Zhu<sup>1,*</sup>, Kai Liu<sup>2</sup>
 ## How To Run
 
 View README.pdf for instruction.
+
+## Citation
+If our work inspires your research or some part of the codes are useful for your work, please cite our paper.
